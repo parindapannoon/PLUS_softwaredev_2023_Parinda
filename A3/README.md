@@ -16,4 +16,4 @@ See more libraries that I used in the notebook. Also, you can download the Html 
 Data in this task are 1. Chicago boundary shapefile, 2. Chicago crime records 2021. The data can be downloaded from this link https://drive.google.com/drive/folders/1fjPaOxqGwUUHm98C0-Fzmk-fan4KBU9u?usp=sharing
 
 
-This task is a part of the course Software developement 2023, University of Salzburg
+This task is a part of the course Software developement 2023, University of Salzburg.
